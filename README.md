@@ -5,10 +5,11 @@
 <p><img src="https://preview.redd.it/wfm5u93jzrg51.jpg?auto=webp&amp;s=50653fedd91d3674ec865a9ec2b91b7d9db91dee" alt="cheemlab" width="294" height="294" /></p>
 
 <p>!!CHEEMS VIRUS!!</p>
-<p>After you download this virus don&apos;t be scared to open it and don&apos;t worry there is safety features in place for all of our safety oh- and when you download this virus you will be bought to a terms and conditions page after you type cheems-i-agree i will not fall liable to any damages to your hardwear i have warned you and for your safety i advise you to try this virus in a virtual machine this virus doesn&apos;t have virtual machine penetration feature so your main computer is fully safe and i made this virus for fun and to hurt anyone or any attechoin for it to hurt anyone and after you install this virus and agree to the terms and conditions the payloads will start and i wouldn&apos;t turn your pc off since this will make the virus worse &nbsp;</p>
-<p>This is a virus what will harm your pc and is all open source to :)&nbsp;</p>
-<p>if you do want to rebuild this virus just make sure to give me credit and i wont mind</p>
-<p>if you have any problems just dm me silvia#2000 on discord&nbsp;</p>
-<p>This virus is very early alpha so i can not promise anything to work&nbsp;</p>
+<p>This virus contains a safety feature on launch that prompts the user to type in 'cheems-i-agree' before launching the payload. On this page there are also some terms and conditions as I will not be held liable for any damages done to your machine, you have been warned and, for your safety, I recommend that if you are going to run this virus you run this in a virtual machine. This virus was made for fun, NOT to damage hardware, I have no intention of damaging anybody's machines.
+
+Caution : In the virus' current state it is unlikely to cause damage to your pc, however, I would still recommend that you run this in a virtual machine on the off chance that there are damages done as I will not be held accountable for any damages.
+This virus is open source so if you do not believe that you are safe running this then don't install the virus or check the code on this GitHub.
+
+You can rebuild this virus if you want but I do not have any of the responsibility of someone creating malware from my code./p>
 <p>!!ENJOY CHEEMS VIRUS!!</p>
 <p>&nbsp;</p>

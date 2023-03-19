@@ -10,6 +10,6 @@
 Caution : In the virus' current state it is unlikely to cause damage to your pc, however, I would still recommend that you run this in a virtual machine on the off chance that there are damages done as I will not be held accountable for any damages.
 This virus is open source so if you do not believe that you are safe running this then don't install the virus or check the code on this GitHub.
 
-You can rebuild this virus if you want but I do not have any of the responsibility of someone creating malware from my code./p>
+You can rebuild this virus if you want but I do not have any of the responsibility of someone creating malware from my code.</p>
 <p>!!ENJOY CHEEMS VIRUS!!</p>
 <p>&nbsp;</p>
